@@ -1,7 +1,7 @@
 # Portfolio
 
 Below are a list of links to repos for public projects I have worked on in the past.
-NOTE: Please read the README file to understand the project background or any important information.
+NOTE: Please read the README file in each of the individual repos to understand the project background or any important information.
 
 ##Frontend Development:
 BasicReactWebpage (Basic) - https://github.com/lucastcowden/BasicReactWebpage
