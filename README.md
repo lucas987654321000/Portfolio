@@ -10,3 +10,9 @@ GymExercises (Advanced) - https://github.com/lucastcowden/GymExercises <br />
 ## Full Stack Development:
 WakeUp-video-game (Advanced) - https://github.com/lucastcowden/WakeUp-video-game <br />
 Tower Defense Game (Intermediate) - https://github.com/lucastcowden/tower-defense-2340 <br />
+
+## Aritificial Intelligence/Machine Learning:
+
+| Project Name | Difficulty/Commitment | Link | Tags |
+| --- | --- | --- | ---|
+| Trash Sorting Robot | Basic | https://github.com/lucastcowden/trash-sorting-robot | Probabilistic AI, Bayes Nets, Markov Chains |
