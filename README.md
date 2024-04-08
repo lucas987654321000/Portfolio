@@ -22,4 +22,5 @@ NOTE: Please read the README file in each of the individual repos to understand 
 | --- | --- | --- | --- |
 | Trash Sorting Robot | Basic | https://github.com/lucastcowden/trash-sorting-robot | Probabilistic AI, Bayes Nets, Markov Chains |
 | Vacuum Cleaning Robot | Basic | https://github.com/lucastcowden/vacuum-cleaning-robot/tree/main | Probabilistic AI, Bayes Nets, Policy Iteration, Value Iteration, Bellman Equation |
-| Astronomy Classification | Intermediate | https://github.com/lucastcowden/astronomy-classification | Neural Networks, Binary Classification, Multiclass Classification |
+| astronomy-classification | Intermediate | https://github.com/lucastcowden/astronomy-classification | ML, Neural Networks, Binary Classification, Multiclass Classification |
+| premier-predictor | Advanced | https://github.com/lucastcowden/premier-predictor-rf | Data Scraping, ML, Random Forest, scikit-learn, Sequential Data, Prediction Models, BeautifulSoup |
